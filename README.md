@@ -1,4 +1,3 @@
-# algorithm-bubble-sort
 # ![](https://drive.google.com/uc?id=10INx5_pkhMcYRdx_OO4rXNXxcsvPtBYq) Bubble Sort 泡沫排序
 > ##### 理論請自行找，網路上有很多相關的文章，這邊只關注於範例實作的部分.
 
@@ -18,10 +17,12 @@
 其基本思想是反覆地比較相鄰的兩個元素，如果它們的順序錯誤就交換它們，直到整個數列排序完成。<br>
 這個過程中，每一輪都會使得未排序部分的最大元素浮到數列的右側，就像氣泡從水底浮出一樣，因此得名氣泡排序。
 
+***示意圖施工中...***
+
 ---
 
 ## 實作範例:
-- 施工中... [Example](https://github.com/RC-Dev-Tech/algorithm-bubble-sort/blob/main/C%2B%2B/main.cpp) - Bubble Sort (C++)
+- [Example](https://github.com/RC-Dev-Tech/algorithm-bubble-sort/blob/main/C%2B%2B/main.cpp) - Bubble Sort (C++)
 
 ---
 
