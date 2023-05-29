@@ -6,8 +6,8 @@
 <!--ts-->
 ## 目錄
 * [簡介](#簡介)
+* [排列示意圖](#排列示意圖)
 * [實作範例](#實作範例)
-* [示意圖](#示意圖)
 * [參考資料](#參考資料)
 <!--te-->
 
@@ -20,14 +20,14 @@
 
 ---
 
-## 實作範例:
-- [Example](https://github.com/RC-Dev-Tech/algorithm-bubble-sort/blob/main/C%2B%2B/main.cpp) - Bubble Sort (C++)
+## 示意圖:
+![](https://drive.google.com/uc?id=1DI8esYRZ4xNPGgukOHE53-HPEYJOyjMy){:height="50%" width="50%"}
+> 圖片來源：[iThome鐵人賽(Frank) - 演算法 排序Sort & 氣泡排序法Bubble Sort](https://ithelp.ithome.com.tw/articles/10276184)
 
 ---
 
-## 示意圖:
-![](https://drive.google.com/uc?id=1DI8esYRZ4xNPGgukOHE53-HPEYJOyjMy)
-> 圖片來源：[iThome鐵人賽(Frank) - 演算法 排序Sort & 氣泡排序法Bubble Sort](https://ithelp.ithome.com.tw/articles/10276184)
+## 實作範例:
+- [Example](https://github.com/RC-Dev-Tech/algorithm-bubble-sort/blob/main/C%2B%2B/main.cpp) - Bubble Sort (C++)
 
 ---
 
