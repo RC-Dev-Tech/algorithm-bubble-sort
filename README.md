@@ -21,7 +21,7 @@
 ---
 
 ## 示意圖:
-![](https://drive.google.com/uc?id=1DI8esYRZ4xNPGgukOHE53-HPEYJOyjMy){:height="30%" width="30%"}
+![](https://drive.google.com/uc?id=1DI8esYRZ4xNPGgukOHE53-HPEYJOyjMy =50x50)
 > 圖片來源：[iThome鐵人賽(Frank) - 演算法 排序Sort & 氣泡排序法Bubble Sort](https://ithelp.ithome.com.tw/articles/10276184)
 
 ---
