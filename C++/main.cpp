@@ -16,7 +16,7 @@ void sort(int arr[], int size) {
 }
 
 int main() {
-    int arr[] = {5, 3, 8, 2, 1};
+    int arr[] = {40, 30, 60, 50, 20};
     int size = sizeof(arr) / sizeof(arr[0]);
 
     // 原始數列.
