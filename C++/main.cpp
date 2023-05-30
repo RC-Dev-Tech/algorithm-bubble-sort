@@ -1,7 +1,7 @@
 #include <iostream>
 using namespace std;
 
-void sort(int arr[], int size) {
+void bubble_sort(int arr[], int size) {
     for (int i = 0; i < size - 1; i++) {
         // 每一回合的比對.
         for (int j = 0; j < size - i - 1; j++) {
@@ -26,7 +26,7 @@ int main() {
     }
 
     // 泡沫排列.
-    sort(arr, size);
+    bubble_sort(arr, size);
 
     // 排序後數列.
     cout << "\nsorted sequence: ";
