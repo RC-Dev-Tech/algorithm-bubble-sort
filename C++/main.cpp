@@ -30,7 +30,7 @@ int main() {
     cout << endl;
 
     // 排序後數列.
-    cout << "\nsorted sequence: ";
+    cout << "sorted sequence: ";
     for (int i = 0; i < size; i++) {
         cout << arr[i] << " ";
     }
