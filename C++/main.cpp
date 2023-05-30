@@ -27,6 +27,7 @@ int main() {
 
     // 泡沫排列.
     bubble_sort(arr, size);
+    cout << endl;
 
     // 排序後數列.
     cout << "\nsorted sequence: ";
